@@ -5,3 +5,6 @@
 [submodule "ONAM"]
 	path = ONAM
 	url = https://github.com/koehlibert/onam_r
+[submodule "SPACO"]
+	path = SPACO
+	url = https://github.com/cran/SPACO
